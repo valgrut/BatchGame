@@ -1,0 +1,14 @@
+V 2.1.0
+-Pøidána kouzla: 
+	>OhnivaKoule
+	>Vylecit (celá mana)
+-Zakomponování magie do útoku:
+	>mana, MaxMana
+	>spell power bonus
+	>možnost používat kouzla v boji
+	>možnost vylepšovat Manu
+	>manový elixír
+-Založení postavy: 
+	>povolání-Váleèník / Mág
+	>zvýšené staty-podle povolání
+	>nové vybavení na mága

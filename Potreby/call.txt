@@ -1,0 +1,39 @@
+﻿
+		Volani funkci
+##########################################
+##########################################
+Souboj:
+
+	set nepritel=Vlk
+	CALL :SetEnemy
+	CALL :Boj
+#########################################
+Leceni elixirem:
+
+	CALL :Elixir	
+#########################################
+Volby, rozcestí, ošetření chyb, ...
+
+	set /p cislo=Napis cislo od 1 do 10: 
+	if %cislo%==1 (
+		echo Volba 1
+	) else if %cislo%==2 (
+		echo Volba 2
+	) else if %cislo%==3 (
+		echo Volba 3
+	) else echo špatna volba...	
+########################################
+Pasti:
+
+	CALL :Past1
+	CALL :Past2
+	CALL :Past3
+	CALL :Past4
+#########################################
+Cekej (pul sekundy)
+
+	PING 1.1.1.1 -n 1 -w 500 > NUL
+#########################################
+Vlastní pause hláška 1)uplné vypnutí 2)Klasické pause, s vlastní hláškou
+	ECHO.&ECHO.Press any key to end the application.&PAUSE>NUL&GOTO:EOF
+	ECHO.&ECHO.Press any key to end the application.&PAUSE>NUL
