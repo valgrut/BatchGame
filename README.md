@@ -2,6 +2,7 @@
 My very first game I made on high school. It is simple rogue-like game written in batch (Dont judge me, I was 16 yo). Still proud of it.
 
 - Can be run on Windows 7 (Tested)
+- Localization: CZ
 
 Description:
   Create your character and dive deep into this fantasy world. Your character can fight with monsters, work in pub and buy new equipment in local shops in city. Discover secrets and find the mystic weapons in the far lands.
