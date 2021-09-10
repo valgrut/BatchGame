@@ -1,7 +1,9 @@
 # BatchGame
-My very first game I made on high school. It is simple rogue-like game written in batch (Dont judge me, I was 16 yo). Still proud of it.
+My very first game I made on high school. It is simple rogue-like game written in batch. Still proud of it.
 
-- Can be run on Windows 7 (Tested)
+![Preview](./screenshot.png?raw=true "Preview of the game")
+
+- Can be run on Windows 7, Windows 10 (tested)
 - Localization: CZ
 
 Description:
